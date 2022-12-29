@@ -22,7 +22,7 @@
       FULL LED
       
 ## Desciption
-      The password can be set and entered in four digits, and can be entered through the *button.
+      The password can be set in four digits, and can be entered through the *button.
 
       Generally, it starts in normal mode and contrasts with the password set.
       If the password is wrong, LED1, LED2, and LED3 are output in order.
